@@ -23,6 +23,9 @@ instead of " !
          */
         System.out.println("A \"quote\" Sting is ");
         System.out.println("\'much\' better if you learn \n the rules of \"escape sequences.\" ");
-        System.out.println("Also, ");   
+        System.out.println("Also, \"\" represents an empty  \n String. Don't forget: use \" \n instead of \" !");
+        System.out.println("\'\' is not same as \" ");   
+
+        
     }
 }
