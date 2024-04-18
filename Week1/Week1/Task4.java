@@ -13,10 +13,9 @@ public class Task4 {
 
 ****
  */
-
- System.out.println("*");
- System.out.println("**");
- System.out.println("***");
- System.out.println("****");
-}
+    System.out.println("*");
+    System.out.println("**");
+    System.out.println("***");
+    System.out.println("****");
+  }
 }
