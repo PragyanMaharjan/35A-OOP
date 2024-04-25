@@ -48,7 +48,6 @@ public class OperatorClass {
         System.out.println("Unary for operand -- " + uNum1--);
         System.out.println("Unary for --operator " + --uNum1);
         System.out.println("");
-
         /*Ternary Operator 
          * For Example
          * String Output;
