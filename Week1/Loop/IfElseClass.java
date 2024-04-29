@@ -44,5 +44,24 @@ public class IfElseClass {
             System.out.println("Default Statement");
         }
         /*When a condition is matched it will skip all the remaining statement */
+        /*Nested If Else */
+        if (num1 > 0){
+            if (num1 > num2){
+                System.out.println("Positive Greater");
+            }
+            else{
+                System.out.println("Positive lesser");
+            }         
+        }
+        else{
+            if (num1 > num2){
+                System.out.println("Negative greater");
+            }
+            else {
+                System.out.println("Nehative Lesser");
+                }
+            }
+
+            // */
     }
 }
